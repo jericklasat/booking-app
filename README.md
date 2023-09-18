@@ -1,6 +1,7 @@
 <h2>Installation</h2>
 <ul>
   <li>install and run docker</li>
+  <li>create .env file based on .env.example</li>
   <li>sail build</li>
   <li>sail up -d</li>
   <li>sail php artisan migrate</li>
